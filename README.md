@@ -129,59 +129,6 @@ Innovation
 
 ---
 
-### AI & Data
-
-- PyTorch
-- TensorFlow
-- Scikit-Learn
-- LangChain
-- Ollama
-- Hugging Face
-- RAG
-- MCP
-- Agentic AI
-
----
-
-### Space Technologies
-
-- CCSDS
-- SDR
-- GNU Radio
-- Mission Operations
-- CubeSat Infrastructure
-- Satellite TT&C
-- Ground Segment Automation
-
----
-
-## GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=msouto&show_icons=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msouto&layout=compact"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=msouto"/>
-
-</p>
-
----
-
-## Publications & Scientific Profiles
-
-- ORCID
-- Google Scholar
-- ResearchGate
-- Lattes CV
-
----
-
 ## Motto
 
 > *Engineering intelligent systems that connect research, innovation and society.*
