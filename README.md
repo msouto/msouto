@@ -1,33 +1,5 @@
 # Prof. Moisés Souto
 
-<p align="center">
-
-<a href="https://msouto.github.io">
-    <img src="https://img.shields.io/badge/Website-msouto.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-<a href="https://ccsl.ifrn.edu.br">
-    <img src="https://img.shields.io/badge/CCSL-IFRN-00599C?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
-</a>
-<a href="https://github.com/msouto">
-    <img src="https://img.shields.io/badge/GitHub-@msouto-181717?style=for-the-badge&logo=github">
-</a>
-<a href="https://orcid.org/">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
-</a>
-<a href="https://scholar.google.com/">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
-</a>
-<a href="https://www.researchgate.net/">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white">
-</a>
-<a href="http://lattes.cnpq.br/">
-    <img src="https://img.shields.io/badge/Lattes-CNPq-1E88E5?style=for-the-badge">
-</a>
-<a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
 
 <p align="center">
 
@@ -36,7 +8,6 @@
 ![CCSL](https://img.shields.io/badge/Founder-CCSL--IFRN-00599C?style=flat-square)
 ![Space Systems](https://img.shields.io/badge/Space%20Systems-Research-1F4E79?style=flat-square)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Research-6A1B9A?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open%20Source-Advocate-3DA639?style=flat-square)
 
 </p>
 
@@ -49,6 +20,40 @@ I am **Prof. Moisés Souto**, Professor at the **Federal Institute of Education,
 My work integrates **Artificial Intelligence**, **Software Engineering**, **Satellite Ground Systems**, **Open Technologies**, **Embedded Systems**, **Digital Transformation** and **Innovation Management**, always seeking to bridge academic research with real-world technological impact.
 
 My current doctoral research investigates **data-driven Verification & Validation methodologies for Multi-Mission Satellite Ground Stations using Computational Intelligence**, aiming to improve reliability, automation and operational efficiency of space mission infrastructures.
+
+---
+
+<p align="center">
+
+<a href="https://msouto.github.io">
+    <img src="https://img.shields.io/badge/Website-msouto.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://ccsl.ifrn.edu.br">
+    <img src="https://img.shields.io/badge/CCSL-IFRN-00599C?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
+</a>
+
+<a href="https://github.com/msouto">
+    <img src="https://img.shields.io/badge/GitHub-msouto-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://br.linkedin.com/in/msouto">
+    <img src="https://img.shields.io/badge/LinkedIn-Mois%C3%A9s%20Souto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.researchgate.net/profile/Moises-Souto">
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/prof.moises_souto/">
+    <img src="https://img.shields.io/badge/Instagram-@prof.moises__souto-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://facebook.com/ProfMoisesSouto">
+    <img src="https://img.shields.io/badge/Facebook-ProfMoisesSouto-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+</p>
 
 ---
 
