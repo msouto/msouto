@@ -75,18 +75,6 @@ My current doctoral research investigates **data-driven Verification & Validatio
 
 ---
 
-## Research Impact
-
-- 🚀 200+ technology projects developed
-- 👨‍🔬 80+ active researchers
-- 👥 400+ researchers involved throughout CCSL history
-- ⏱ 40,000+ hours of R&D activities
-- 🌎 National and international collaborations
-- 🛰 Development of Brazilian satellite technologies
-- 💡 Multiple technology transfer initiatives
-
----
-
 ## Professional Experience
 
 - Professor at IFRN
@@ -95,25 +83,6 @@ My current doctoral research investigates **data-driven Verification & Validatio
 - Principal Investigator in R&D Projects
 - Ph.D. Researcher at INPE
 - Doctor Honoris Causa in Applied Computing
-
----
-
-## Research Areas
-
-```text
-Artificial Intelligence
-Software Engineering
-Satellite Ground Segment
-Space Systems Engineering
-Verification & Validation
-Mission Operations
-Digital Twins
-Computational Intelligence
-Open Source
-Embedded Systems
-Distributed Systems
-Innovation
-```
 
 ---
 
