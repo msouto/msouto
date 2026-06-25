@@ -72,49 +72,11 @@ My current doctoral research investigates **data-driven Verification & Validatio
 - Innovation Management
 - Open Source Technologies
 
----
-
-## Current Projects
-
-### 🛰 EMMN (Natal Multi-Mission Ground Station)
-
-Development of a next-generation multi-mission ground station supporting telemetry, tracking and telecommand for CubeSats and nanosatellites.
-
----
-
-### 📡 Samanaú Platform
-
-National satellite communication platform composed of:
-
-- Samanaú.TX
-- Samanaú.PCD
-- Samanaú.WEB
-
-The **Samanaú.TX** became the **first Brazilian transmitter homologated by INPE** compatible with the ARGOS/SCD system.
-
----
-
-### 🌎 GOLDS Potiguar Constellation
-
-Development of an open constellation of nanosatellites for environmental and strategic data collection in partnership with universities, research institutes and governmental agencies.
-
----
-
-### 🤖 Artificial Intelligence for Government
-
-Research and development of Generative AI solutions applied to public administration and digital government.
-
----
-
-### 🌱 Agro 4.0 Marketplace
-
-IoT and SDR infrastructure supporting digital agriculture through intelligent data integration.
 
 ---
 
 ## Research Impact
 
-- 💰 R$ 20+ million in research funding
 - 🚀 200+ technology projects developed
 - 👨‍🔬 80+ active researchers
 - 👥 400+ researchers involved throughout CCSL history
@@ -193,16 +155,6 @@ Innovation
 
 ---
 
-### DevOps
-
-- Linux
-- Docker
-- Kubernetes
-- GitHub Actions
-- CI/CD
-
----
-
 ## GitHub Analytics
 
 <p align="center">
@@ -227,23 +179,6 @@ Innovation
 - Google Scholar
 - ResearchGate
 - Lattes CV
-
----
-
-## Looking for Collaboration
-
-I am interested in collaborations involving:
-
-- Artificial Intelligence
-- Space Engineering
-- Satellite Ground Segment
-- Verification & Validation
-- Open Source Technologies
-- Digital Government
-- Innovation
-- Embedded Systems
-- Systems Engineering
-- Software Engineering
 
 ---
 
