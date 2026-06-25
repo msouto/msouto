@@ -21,6 +21,11 @@ My work integrates **Artificial Intelligence**, **Software Engineering**, **Sate
 
 My current doctoral research investigates **data-driven Verification & Validation methodologies for Multi-Mission Satellite Ground Stations using Computational Intelligence**, aiming to improve reliability, automation and operational efficiency of space mission infrastructures.
 
+
+[![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2009-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msouto)
+[![Followers](https://img.shields.io/github/followers/msouto?style=for-the-badge&logo=github)](https://github.com/msouto?tab=followers)
+[![Stars](https://img.shields.io/github/stars/msouto?style=for-the-badge)](https://github.com/msouto)
+
 ---
 
 <p align="center">
